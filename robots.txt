@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phohkautoo.scalita.de/sitemap.xml
